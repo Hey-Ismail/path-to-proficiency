@@ -1,6 +1,6 @@
 # Created : 15 December 2024
 # Author  : Ismail Hossain 
-# Welcome to [path-to-proficiency]!
+# Welcome to path-to-proficiency!
 
 This repository contains solutions to coding problems I've solved across various platforms. It's a personal archive and a resource for anyone learning to code.
 
