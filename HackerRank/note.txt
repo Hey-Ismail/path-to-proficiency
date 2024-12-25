@@ -1,0 +1,1 @@
+I have solved all the basic C++ problems on HackerRank. All problems are marked as solved and were of easy difficulty.
