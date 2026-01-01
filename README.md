@@ -74,3 +74,15 @@ These solutions are for learning purposes and may not be optimal. Avoid using th
 
 Happy Coding! ✨
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hey-Ismail/path-to-proficiency/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hey-Ismail/path-to-proficiency/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
